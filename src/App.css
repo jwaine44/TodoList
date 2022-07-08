@@ -1,5 +1,10 @@
 .App {
-  text-align: center;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.line-through {
+  text-decoration: line-through;
 }
 
 .App-logo {
