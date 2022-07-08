@@ -5,8 +5,6 @@ const Todo = (props) => {
         todoClasses.push("line-through");
     }
 
-    // 
-
     // todos.map in the App will go to the below div in the return statement; div so each todo appears on a new line
 
     // Whenever the button is pushed, the state changes to have the new value in the array and function App on line 6 is re-run with the new state remembered by React so the array will have the previous values that were input; re-renders every time the array changes
